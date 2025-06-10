@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Free Fire Tournament</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Free Fire Max Tournament</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="register.html">Register</a>
+      <a href="winners.html">Winners</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Upcoming Tournament</h2>
+    <p>Date: 15 June 2025</p>
+    <p>Room ID & Password will be shared 30 mins before the match.</p>
+  </main>
+  <footer>© 2025 FF Tournaments</footer>
+</body>
+</html>
